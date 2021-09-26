@@ -60,7 +60,7 @@ const chef = [
         country: 'United States',
         salary: 141400,
         specialItem: 'Oysters and Pearls',
-        rating: 3.6
+        rating: 4.6
     },
     {
         id: 118,
@@ -69,7 +69,7 @@ const chef = [
         country: 'Japan',
         salary: 169400,
         specialItem: 'Classic kaiseki cuisine',
-        rating: 2.8
+        rating: 4.8
     },
     {
         id: 119,
@@ -88,5 +88,14 @@ const chef = [
         salary: 193200,
         specialItem: 'Triple Cooked Chips',
         rating: 4.0
+    },
+    {
+        id: 121,
+        name: 'Heinz Beck',
+        image: 'https://trulyexperiences.com/blog/wp-content/uploads/2018/04/25152410757_92ba226fd7_k-e1614081135348-420x474.jpg',
+        country: 'Rome',
+        salary: 153200,
+        specialItem: 'Italian Cuisine',
+        rating: 4.7
     }
 ]

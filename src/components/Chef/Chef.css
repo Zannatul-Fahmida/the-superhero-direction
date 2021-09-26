@@ -10,7 +10,7 @@
     height: 100px;
     border-radius: 50%;
 }
-.icon-color{
+.star-icon-color{
     color: goldenrod;
 }
 .add-to-cart-btn{
@@ -20,4 +20,21 @@
     color: white;
     font-size: 15px;
     padding: 5px 20px;
+}
+.add-to-cart-btn:hover{
+    cursor:pointer;
+}
+.icons{
+    font-size: 25px;
+}
+.thumbs-up-icon{
+    color: rgb(44, 44, 255);
+}
+.thumbs-down-icon{
+    color: rgb(247, 52, 52);
+    padding-left: 10px;
+}
+.comments-icon{
+    color: rgb(0, 181, 253);
+    padding-left: 10px;
 }
