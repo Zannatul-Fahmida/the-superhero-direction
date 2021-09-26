@@ -2,7 +2,6 @@
 
 Live link: https://best-chefs-team.netlify.app/
 
-## Available Scripts
 
 In the project directory, 
 1. It is a chefs hiring website. Where you can see the world's best chefs.
