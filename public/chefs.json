@@ -60,7 +60,7 @@
         "country": "United States",
         "salary": 141400,
         "specialItem": "Oysters and Pearls",
-        "rating": 3.6
+        "rating": 4.6
     },
     {
         "id": 118,
@@ -69,7 +69,7 @@
         "country": "Japan",
         "salary": 169400,
         "specialItem": "Classic kaiseki cuisine",
-        "rating": 2.8
+        "rating": 4.8
     },
     {
         "id": 119,
